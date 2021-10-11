@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Lápis Faber Castell",
+      "price": "10.90"
+    },
+    {
+      "id": 3,
+      "name": "Mochila Dell",
+      "price": "100"
+    },
+    {
+      "id": 4,
+      "name": "Notepad",
+      "price": "90.00"
+    }
+  ]
+}
